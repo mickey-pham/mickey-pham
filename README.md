@@ -1,6 +1,2 @@
-# Welcome to GitHub Desktop!
-
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
-mickey
+<div align="center">
+	<a href="https://discord.com/users/368399721494216706"><img src="https://lanyard.kyrie25.dev/api/368399721494216706?imgStyle=square" /></a>  
